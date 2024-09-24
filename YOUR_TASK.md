@@ -18,7 +18,7 @@
 
 ### Reminder:
 
-<img src="./assets/live_preview.png" width="260px" align="right" alt="Live Preview screenshot">
+<img src="live_preview.png" width="260px" align="right" alt="Live Preview screenshot">
 
 Make sure you have the **Live Preview** extension in your VSCode environment
 - Go to the Extensions panel (icon that looks like four squares)
